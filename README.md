@@ -2,7 +2,7 @@
 
 A small, focused set of reusable UI primitives — an accessible Modal and a validated form field — proven out with real unit tests, not just eyeballed in the browser.
 
-**Live demo:** _add your deployed URL here_
+**Live demo:** https://abel-form-modal-toolkit.netlify.app
 
 ![Screenshot showing the sign-up modal with validation errors](./screenshot.png)
 
